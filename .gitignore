@@ -14,6 +14,8 @@ save/
 generated_samples_256/
 exps/
 fidelity_cache/
+pnp_plots/
+ablation_steps_plot/
 
 # Keep the small curated examples for AFHQ / CelebA
 !data_examples/
@@ -21,3 +23,5 @@ fidelity_cache/
 *.pdf
 *.json
 *.png
+# *.ipynb
+*.npz
