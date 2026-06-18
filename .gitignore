@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+
+# Project-specific large / private dirs
+anisotropic_flow_maps/
+data/
+logs/
+submission/
+scripts_training/
+save/
+generated_samples_256/
+exps/
+fidelity_cache/
+
+# Keep the small curated examples for AFHQ / CelebA
+!data_examples/
+
+*.pdf
+*.json
+*.png
