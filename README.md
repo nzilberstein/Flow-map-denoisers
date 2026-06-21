@@ -1,5 +1,9 @@
 # Flow Map Denoisers: Traversing the Distortion–Perception Plane for Inverse Problems
 
+Summary: This GitHub repository contains the code for our paper using flow map denoisers as prior in plug-and-play methods. We also provide a training, and we hope it serves as pytorch implementation for using flow map for solving inverse problems.
+
+Link to paper: https://arxiv.org/abs/2606.19802
+
 
 
 This repo contains:
@@ -242,3 +246,4 @@ This codebase builds directly on three excellent open-source projects:
 - **[easy_meanflow](https://github.com/pkulwj1994/easy_meanflow)** by Weijian Luo (Humane Intelligence Lab, Xiaohongshu Inc. & Peking University — [pkulwj1994@icloud.com](mailto:pkulwj1994@icloud.com)) and Yifei Wang (Rice University — [yw251@rice.edu](mailto:yw251@rice.edu)) — the flow-map trainer and CIFAR-10 reference implementation.
 - **[NVlabs/edm](https://github.com/NVlabs/edm)** — the trainer scaffolding, network architectures, and FID evaluation.
 - **[nmboffi/flow-maps](https://github.com/nmboffi/flow-maps/tree/main)** — flow-map formulation and reference baselines.
+- **[pnp-flow](https://github.com/annegnx/PnP-Flow/tree/main)** pnp-flow matching method, which we used as template for implementing the baselines
