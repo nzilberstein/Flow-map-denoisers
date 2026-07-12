@@ -4,7 +4,7 @@ Summary: This GitHub repository contains the code for our paper using flow map d
 
 Link to paper: https://arxiv.org/abs/2606.19802
 
-Link to checkpoits: https://drive.google.com/drive/folders/1WRbvpDFQ4gWAJv1jP5YPaJZbhu3jWaUh?usp=sharing
+Link to checkpoits: [https://drive.google.com/drive/folders/1WRbvpDFQ4gWAJv1jP5YPaJZbhu3jWaUh?usp=sharing](https://drive.google.com/drive/u/1/folders/1iCyTTQHKakKQsZNJ9_9di68YGs2aNd6C)
 
 
 
